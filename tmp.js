@@ -6,7 +6,8 @@
 // @author       You
 // @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
-// @grant        none
+// @grant        none 
+// @license      MIT
 // ==/UserScript==
 
 (function() {
